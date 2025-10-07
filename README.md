@@ -4,7 +4,7 @@ READ ME BASE DE DATOS (Como usar GIT)
 
 ----------------Antes de empezar----------------
 
-git cd "el directorio donde esta la carpeta de ADSIII guardada"
+git cd "el directorio donde esta la carpeta de BaseDeDatos guardada"
 
 HACER ESTO SI NO TENES NADA PARA SUBIR!!!!!!
 
@@ -27,6 +27,4 @@ git commit -m "Fecha y hora del cambio (ej: 10/05 14:30) + Nombre"
 
 
 git push                # Sube los commits al repositorio remoto
-
-
 
