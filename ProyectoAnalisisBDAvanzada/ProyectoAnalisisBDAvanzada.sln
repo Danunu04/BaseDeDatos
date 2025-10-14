@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "ProyectoAnalisisBDAvanzada", "ProyectoAnalisisBDAvanzada.dwproj", "{D9F812AB-C35E-438C-BA3B-C000239B8F60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9F812AB-C35E-438C-BA3B-C000239B8F60}.Development|Default.ActiveCfg = Development
+		{D9F812AB-C35E-438C-BA3B-C000239B8F60}.Development|Default.Build.0 = Development
+		{D9F812AB-C35E-438C-BA3B-C000239B8F60}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3D7418D-0D2C-431C-BE68-6E91E2923520}
+	EndGlobalSection
+EndGlobal
