@@ -6,11 +6,8 @@ READ ME BASE DE DATOS (Como usar GIT)
 
 git cd "el directorio donde esta la carpeta de BaseDeDatos guardada"
 
-HACER ESTO SI NO TENES NADA PARA SUBIR!!!!!!
-
-git pull .		#Para tener la carpeta al dia
-
-
+git stash "Esto va a guardar todos tus cambios hechos locales"
+git pull "Esto va a traer todos los cambios que estaban en GIT"
 
 ----------------PARA SUBIR COSAS----------------
 
