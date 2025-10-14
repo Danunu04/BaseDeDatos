@@ -22,6 +22,7 @@ git push                 # Sube los commits al repositorio remoto
 
 
 ----------------INTEGRANTES----------------
+
 Urso Ivan Alejandro
 Perelmuter Dana
 Cuello de Sarro Rafael Luis
@@ -29,12 +30,16 @@ Pylinski Natalie Lourdes
 Britez Leandro Ezequiel
 
 ----------------PROPOSITO----------------
+
 Lograr un analisis integral, ordenado y colaborativo del desarrollo de la base de datos del proyecto.
 Este repositorio permite mantener control de versiones, asegura la integridad del codigo SQL y facilitar el trabajo en equipo.
 
 Cada integrande debe:
+
 Actualizar su copia localn antes de realizar cambios
+
 Registrar sus modificaciones con un commit descriptivo y fechado
+
 Subir los cambios una vez verificado el correcto funcionamiento
 
 
