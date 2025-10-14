@@ -3,12 +3,10 @@ READ ME BASE DE DATOS (Como usar GIT)
 
 
 ----------------Antes de empezar----------------
+git cd "el directorio donde está la carpeta de BaseDeDatos guardada"
 
-git cd "el directorio donde esta la carpeta de BaseDeDatos guardada"
-
-git stash "Esto va a guardar todos tus cambios hechos locales" 
-
-git pull "Esto va a traer todos los cambios que estaban en GIT"
+git stash        # Guarda todos tus cambios locales
+git pull         # Trae los últimos cambios del repositorio remoto
 
 ----------------PARA SUBIR COSAS----------------
 
